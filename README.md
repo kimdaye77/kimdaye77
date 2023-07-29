@@ -2,20 +2,21 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimdaye77&count_bg=%23DFC9F4&title_bg=%23D6B2E4&icon=octopusdeploy.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!--
-**kimdaye77/kimdaye77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Typescript.
+- 💬 Ask me about any question XD
+- 📫 How to reach me: kimdaye77@hanyang.ac.kr
 
-Here are some ideas to get you started:
+## 🐜 Tech Blog 👇🏻
+https://kimdaye77.github.io/
+<br>
+Hugo로 제작한 기술 블로그입니다.<br>각종 공부한 것들을 정리했습니다. (2023.07.16 ~ )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 Experience
+Hyundai Softeer Bootcamp Frontend 2nd - (2023.07.03 ~ )
+
+## 🐱 Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdaye77&show_icons=true&theme=radical)
 
+
+## 💻 Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimdaye77)](https://solved.ac/kimdaye77/)
