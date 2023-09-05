@@ -12,7 +12,7 @@ https://kimdaye77.github.io/
 Hugo로 제작한 기술 블로그입니다.<br>각종 공부한 것들을 정리했습니다. (2023.07.16 ~ )
 
 ## 📝 Experience
-Hyundai Softeer Bootcamp Frontend 2nd - (2023.07.03 ~ )
+Hyundai Softeer Bootcamp Frontend 2nd - (2023.07.03 ~ 2023.08.31)
 
 ## 🐱 Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdaye77&show_icons=true&theme=radical)
